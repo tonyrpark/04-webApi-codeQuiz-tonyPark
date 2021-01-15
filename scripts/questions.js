@@ -1,3 +1,5 @@
+//These questions were created in collaboration with classmate Dustin Knowles
+
 var questionBank = [
   // Question 1
   {
