@@ -66,7 +66,7 @@ function compareAnswer(event) {
       feedback1.textContent = "You are correct!";
     } else {
       timeLeft -= 10;
-      feedback1.textContent = "You are Wrong!";
+      feedback1.textContent = "You are wrong!";
     }
     score = timeLeft;
     q++;
