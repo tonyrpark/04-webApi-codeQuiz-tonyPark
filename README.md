@@ -22,7 +22,7 @@ Main files:
 
 ### Starting Page
 
-- Top H1 = "HTML, CSS, Javascript Quiz by Tony Park and Dustin Knowles"
+- Top H1 = "HTML, CSS, Javascript Quiz"
 - Instructions:
         - This is a simple HTML, CSS, JS Quiz
         - 10 Questions
