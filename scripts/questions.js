@@ -29,6 +29,7 @@ var questionBank = [
       "<link rel='stylesheet' type='text/css' href='mystyle.css'>",
       "<stylesheet>mystyle.css</stylesheet>",
       "<stylesheet>mystyle</stylesheet>",
+      "None of the above",
     ],
     answer: "<link rel='stylesheet' type='text/css' href='mystyle.css'>",
   },
